@@ -1,6 +1,0 @@
-[DEFAULT]
-user=ocid1.user.oc1..aaaaaaaakjgcjrbupzgjpnj5wkpv3hh44yoqbcwcn7kx7lga3e7ey6t5xa5q
-fingerprint=f6:ca:da:c0:ed:9f:27:13:2c:9c:a0:91:8e:7b:92:ca
-key_file=/Users/dankim/.oci/oci_api_key.pem
-tenancy=ocid1.tenancy.oc1..aaaaaaaa35cznfel6mlvhotqivghrfhyeaxkgkwypmyikm3bfpzt6i3mqfza
-region=ap-seoul-1

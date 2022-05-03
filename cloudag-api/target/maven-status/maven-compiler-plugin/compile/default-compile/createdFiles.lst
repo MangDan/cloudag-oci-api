@@ -1,6 +1,0 @@
-net/bitnine/cloudag/api/oracle/controller/InstanceController.class
-net/bitnine/cloudag/api/oracle/util/AuthentificationProvider.class
-net/bitnine/cloudag/api/oracle/CloudagApiApplication.class
-net/bitnine/cloudag/api/oracle/config/SwaggerConfig.class
-net/bitnine/cloudag/api/oracle/util/AsyncConfig.class
-net/bitnine/cloudag/api/oracle/service/InstanceService.class
